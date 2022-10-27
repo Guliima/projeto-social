@@ -29,7 +29,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
-    width: 311px;;
+    width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
@@ -54,8 +54,8 @@ main {
 }
 
 #redes-sociais img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.400);
+    border: 2px solid rgba(255, 255, 255, 0.603);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
-    transition: transform .3s, border .8s;
+    transition: transform .4s;
 }
